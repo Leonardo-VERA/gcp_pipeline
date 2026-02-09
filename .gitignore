@@ -1,5 +1,40 @@
+# Python
 __pycache__/
-
-.venv/
-venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
 env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# Data files
+data/raw/*.json
+data/processed/*.json
+# *.csv
+*.parquet
+
+# Notebooks
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# BigQuery credentials
+*.json
+!.env.example
