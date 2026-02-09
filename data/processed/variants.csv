@@ -1,0 +1,127 @@
+product_id,product_title,variant_title,price,inventory_quantity
+8310667673787,Adidas Accessories #21,Default Title,91.85,18
+8310670360763,Adidas Accessories #93,Default Title,195.01,133
+8310667772091,Adidas Jacket #24,Default Title,111.39,97
+8310668886203,Adidas Jacket #56,Default Title,223.7,71
+8310669377723,Adidas Jacket #67,Default Title,26.49,48
+8310668165307,Adidas Pants #35,Default Title,114.17,7
+8310668329147,Adidas Pants #39,Default Title,182.92,53
+8310667149499,Adidas Pants #6,Default Title,281.81,128
+8310669148347,Adidas Pants #61,Default Title,209.26,107
+8310669803707,Adidas Pants #79,Default Title,76.71,120
+8310667739323,Adidas Shoes #23,Default Title,256.96,47
+8310668263611,Adidas Shoes #37,Default Title,124.41,140
+8310668722363,Adidas Shoes #51,Default Title,42.58,144
+8310668918971,Adidas Shoes #57,Default Title,148.02,131
+8310669082811,Adidas Shoes #60,Default Title,26.26,13
+8310669246651,Adidas Shoes #64,Default Title,37.71,96
+8310669443259,Adidas Shoes #69,Default Title,297.24,28
+8310670033083,Adidas Shoes #84,Default Title,106.7,95
+8310668755131,Adidas T-Shirt #52,Default Title,262.96,3
+8310669213883,Adidas T-Shirt #63,Default Title,37.78,38
+8310670098619,Adidas T-Shirt #86,Default Title,26.61,125
+8310670426299,Adidas T-Shirt #95,Default Title,288.23,80
+8307108741307,Gift Card,$10,10.0,0
+8307108741307,Gift Card,$25,25.0,0
+8307108741307,Gift Card,$50,50.0,0
+8307108741307,Gift Card,$100,100.0,0
+8310667509947,New Balance Accessories #16,Default Title,45.72,147
+8310668034235,New Balance Accessories #31,Default Title,96.79,52
+8310669181115,New Balance Accessories #62,Default Title,24.73,63
+8310667182267,New Balance Accessories #7,Default Title,281.73,143
+8310669508795,New Balance Accessories #71,Default Title,114.69,13
+8310668394683,New Balance Jacket #41,Default Title,43.26,135
+8310667083963,New Balance Jacket #5,Default Title,117.94,51
+8310670393531,New Balance Jacket #94,Default Title,88.96,87
+8310670491835,New Balance Jacket #97,Default Title,22.09,88
+8310667477179,New Balance Pants #15,Default Title,178.37,109
+8310668558523,New Balance Pants #46,Default Title,143.58,83
+8310670459067,New Balance Pants #96,Default Title,69.39,104
+8310667346107,New Balance Shoes #12,Default Title,112.16,43
+8310668067003,New Balance Shoes #32,Default Title,128.9,135
+8310667051195,New Balance Shoes #4,Default Title,208.73,1
+8310668460219,New Balance Shoes #43,Default Title,209.22,95
+8310668787899,New Balance Shoes #53,Default Title,294.72,68
+8310668820667,New Balance Shoes #54,Default Title,298.54,116
+8310667444411,Nike Accessories #14,Default Title,251.84,49
+8310667706555,Nike Accessories #22,Default Title,189.5,64
+8310667018427,Nike Accessories #3,Default Title,71.1,31
+8310668296379,Nike Accessories #38,Default Title,87.06,83
+8310666920123,Nike Jacket #1,Default Title,242.22,60
+8310667641019,Nike Jacket #20,Default Title,256.92,100
+8310667903163,Nike Jacket #28,Default Title,168.32,42
+8310668198075,Nike Jacket #36,Default Title,274.02,61
+8310670262459,Nike Jacket #90,Default Title,51.72,43
+8310667542715,Nike Pants #17,Default Title,294.95,135
+8310667935931,Nike Pants #29,Default Title,216.09,132
+8310668689595,Nike Pants #50,Default Title,202.83,105
+8310669607099,Nike Pants #74,Default Title,78.63,48
+8310669705403,Nike Pants #76,Default Title,199.91,86
+8310666952891,Nike Shoes #2,Default Title,206.89,90
+8310668492987,Nike Shoes #44,Default Title,256.14,123
+8310668591291,Nike Shoes #47,Default Title,28.12,101
+8310668624059,Nike Shoes #48,Default Title,159.18,43
+8310669574331,Nike Shoes #73,Default Title,276.11,63
+8310667280571,Nike T-Shirt #10,Default Title,251.48,95
+8310670622907,Nike T-Shirt #100,Default Title,204.25,130
+8310668427451,Nike T-Shirt #42,Default Title,298.82,135
+8310669344955,Nike T-Shirt #66,Default Title,81.08,123
+8310667215035,Puma Accessories #8,Default Title,166.85,8
+8310670196923,Puma Accessories #88,Default Title,257.23,33
+8310668001467,Puma Jacket #30,Default Title,205.07,107
+8310669017275,Puma Jacket #59,Default Title,255.18,70
+8310670065851,Puma Jacket #85,Default Title,202.6,46
+8310670557371,Puma Jacket #99,Default Title,116.43,147
+8310667804859,Puma Pants #25,Default Title,127.54,78
+8310670327995,Puma Pants #92,Default Title,149.92,119
+8310667313339,Puma Shoes #11,Default Title,225.26,31
+8310667837627,Puma Shoes #26,Default Title,181.64,83
+8310668656827,Puma Shoes #49,Default Title,93.46,12
+8310668853435,Puma Shoes #55,Default Title,234.56,109
+8310669541563,Puma Shoes #72,Default Title,170.9,86
+8310670000315,Puma Shoes #83,Default Title,229.78,32
+8310670229691,Puma Shoes #89,Default Title,174.27,44
+8310668525755,Puma T-Shirt #45,Default Title,240.44,93
+8310669279419,Puma T-Shirt #65,Default Title,77.34,89
+8310669410491,Puma T-Shirt #68,Default Title,198.17,40
+8310670295227,Puma T-Shirt #91,Default Title,59.12,143
+8310670524603,Puma T-Shirt #98,Default Title,265.03,136
+8310667378875,Reebok Accessories #13,Default Title,288.89,40
+8310667870395,Reebok Accessories #27,Default Title,224.43,54
+8310668361915,Reebok Accessories #40,Default Title,152.68,133
+8310668984507,Reebok Accessories #58,Default Title,201.95,136
+8310669770939,Reebok Accessories #78,Default Title,108.89,99
+8310667247803,Reebok Accessories #9,Default Title,281.98,56
+8310667575483,Reebok Jacket #18,Default Title,248.63,75
+8310668132539,Reebok Jacket #34,Default Title,53.67,63
+8310669672635,Reebok Jacket #75,Default Title,73.48,38
+8310669869243,Reebok Jacket #80,Default Title,243.97,95
+8310669738171,Reebok Shoes #77,Default Title,272.96,115
+8310669967547,Reebok Shoes #82,Default Title,207.17,53
+8310670131387,Reebok Shoes #87,Default Title,223.04,130
+8310667608251,Reebok T-Shirt #19,Default Title,161.64,7
+8310668099771,Reebok T-Shirt #33,Default Title,162.71,126
+8310669476027,Reebok T-Shirt #70,Default Title,176.37,86
+8310669934779,Reebok T-Shirt #81,Default Title,229.73,106
+8307108937915,Selling Plans Ski Wax,Selling Plans Ski Wax,24.95,10
+8307108937915,Selling Plans Ski Wax,Special Selling Plans Ski Wax,49.95,10
+8307108937915,Selling Plans Ski Wax,Sample Selling Plans Ski Wax,9.95,10
+8307109265595,The 3p Fulfilled Snowboard,Default Title,2629.95,20
+8307109036219,The Archived Snowboard,Default Title,629.95,50
+8307109003451,The Collection Snowboard: Hydrogen,Default Title,600.0,50
+8307109331131,The Collection Snowboard: Liquid,Default Title,749.95,50
+8307109134523,The Collection Snowboard: Oxygen,Default Title,1025.0,50
+8307108872379,The Compare at Price Snowboard,Default Title,785.95,10
+8307108905147,The Complete Snowboard,Ice,699.95,10
+8307108905147,The Complete Snowboard,Dawn,699.95,10
+8307108905147,The Complete Snowboard,Powder,699.95,10
+8307108905147,The Complete Snowboard,Electric,699.95,10
+8307108905147,The Complete Snowboard,Sunset,699.95,10
+8307108839611,The Draft Snowboard,Default Title,2629.95,20
+8307108774075,The Hidden Snowboard,Default Title,749.95,50
+8307108708539,The Inventory Not Tracked Snowboard,Default Title,949.95,0
+8307108806843,The Minimal Snowboard,Default Title,885.95,50
+8307109167291,The Multi-location Snowboard,Default Title,729.95,100
+8307109298363,The Multi-managed Snowboard,Default Title,629.95,100
+8307108970683,The Out of Stock Snowboard,Default Title,885.95,0
+8307109068987,The Videographer Snowboard,Default Title,885.95,50

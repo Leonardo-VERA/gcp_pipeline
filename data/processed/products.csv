@@ -1,0 +1,118 @@
+product_id,title,vendor,product_type,status,created_at,num_variants,num_images
+8310667673787,Adidas Accessories #21,Nike,Shoes,active,2026-02-09 18:01:24-05:00,1,0
+8310670360763,Adidas Accessories #93,Adidas,Pants,active,2026-02-09 18:03:18-05:00,1,0
+8310667772091,Adidas Jacket #24,New Balance,Jacket,active,2026-02-09 18:01:29-05:00,1,0
+8310668886203,Adidas Jacket #56,New Balance,Shoes,active,2026-02-09 18:02:20-05:00,1,0
+8310669377723,Adidas Jacket #67,Adidas,Jacket,active,2026-02-09 18:02:38-05:00,1,0
+8310668165307,Adidas Pants #35,Reebok,Jacket,active,2026-02-09 18:01:48-05:00,1,0
+8310668329147,Adidas Pants #39,Adidas,Accessories,active,2026-02-09 18:01:54-05:00,1,0
+8310667149499,Adidas Pants #6,Puma,Shoes,active,2026-02-09 18:01:01-05:00,1,0
+8310669148347,Adidas Pants #61,New Balance,T-Shirt,active,2026-02-09 18:02:28-05:00,1,0
+8310669803707,Adidas Pants #79,Puma,Accessories,active,2026-02-09 18:02:55-05:00,1,0
+8310667739323,Adidas Shoes #23,New Balance,T-Shirt,active,2026-02-09 18:01:27-05:00,1,0
+8310668263611,Adidas Shoes #37,Adidas,Jacket,active,2026-02-09 18:01:50-05:00,1,0
+8310668722363,Adidas Shoes #51,Nike,Shoes,active,2026-02-09 18:02:13-05:00,1,0
+8310668918971,Adidas Shoes #57,Puma,T-Shirt,active,2026-02-09 18:02:22-05:00,1,0
+8310669082811,Adidas Shoes #60,Reebok,Jacket,active,2026-02-09 18:02:26-05:00,1,0
+8310669246651,Adidas Shoes #64,Nike,Jacket,active,2026-02-09 18:02:32-05:00,1,0
+8310669443259,Adidas Shoes #69,Nike,Pants,active,2026-02-09 18:02:41-05:00,1,0
+8310670033083,Adidas Shoes #84,Puma,T-Shirt,active,2026-02-09 18:03:03-05:00,1,0
+8310668755131,Adidas T-Shirt #52,Puma,Accessories,active,2026-02-09 18:02:14-05:00,1,0
+8310669213883,Adidas T-Shirt #63,Nike,T-Shirt,active,2026-02-09 18:02:30-05:00,1,0
+8310670098619,Adidas T-Shirt #86,Nike,Jacket,active,2026-02-09 18:03:06-05:00,1,0
+8310670426299,Adidas T-Shirt #95,New Balance,Accessories,active,2026-02-09 18:03:21-05:00,1,0
+8307108741307,Gift Card,Snowboard Vendor,giftcard,active,2026-02-04 13:29:13-05:00,4,1
+8310667509947,New Balance Accessories #16,Adidas,Accessories,active,2026-02-09 18:01:16-05:00,1,0
+8310668034235,New Balance Accessories #31,Reebok,T-Shirt,active,2026-02-09 18:01:41-05:00,1,0
+8310669181115,New Balance Accessories #62,Adidas,Pants,active,2026-02-09 18:02:29-05:00,1,0
+8310667182267,New Balance Accessories #7,Reebok,Jacket,active,2026-02-09 18:01:02-05:00,1,0
+8310669508795,New Balance Accessories #71,Adidas,Shoes,active,2026-02-09 18:02:44-05:00,1,0
+8310668394683,New Balance Jacket #41,Puma,Shoes,active,2026-02-09 18:01:57-05:00,1,0
+8310667083963,New Balance Jacket #5,Adidas,Pants,active,2026-02-09 18:00:59-05:00,1,0
+8310670393531,New Balance Jacket #94,Nike,Pants,active,2026-02-09 18:03:20-05:00,1,0
+8310670491835,New Balance Jacket #97,Puma,Jacket,active,2026-02-09 18:03:24-05:00,1,0
+8310667477179,New Balance Pants #15,Nike,Jacket,active,2026-02-09 18:01:14-05:00,1,0
+8310668558523,New Balance Pants #46,Puma,Pants,active,2026-02-09 18:02:05-05:00,1,0
+8310670459067,New Balance Pants #96,New Balance,Pants,active,2026-02-09 18:03:23-05:00,1,0
+8310667346107,New Balance Shoes #12,Adidas,Shoes,active,2026-02-09 18:01:10-05:00,1,0
+8310668067003,New Balance Shoes #32,New Balance,Shoes,active,2026-02-09 18:01:42-05:00,1,0
+8310667051195,New Balance Shoes #4,Reebok,Shoes,active,2026-02-09 18:00:57-05:00,1,0
+8310668460219,New Balance Shoes #43,Puma,T-Shirt,active,2026-02-09 18:02:00-05:00,1,0
+8310668787899,New Balance Shoes #53,Adidas,Pants,active,2026-02-09 18:02:16-05:00,1,0
+8310668820667,New Balance Shoes #54,Adidas,Accessories,active,2026-02-09 18:02:17-05:00,1,0
+8310667444411,Nike Accessories #14,New Balance,Shoes,active,2026-02-09 18:01:13-05:00,1,0
+8310667706555,Nike Accessories #22,Puma,Accessories,active,2026-02-09 18:01:26-05:00,1,0
+8310667018427,Nike Accessories #3,Nike,T-Shirt,active,2026-02-09 18:00:56-05:00,1,0
+8310668296379,Nike Accessories #38,New Balance,Jacket,active,2026-02-09 18:01:52-05:00,1,0
+8310666920123,Nike Jacket #1,Reebok,Jacket,active,2026-02-09 18:00:52-05:00,1,0
+8310667641019,Nike Jacket #20,Nike,T-Shirt,active,2026-02-09 18:01:22-05:00,1,0
+8310667903163,Nike Jacket #28,Nike,Jacket,active,2026-02-09 18:01:35-05:00,1,0
+8310668198075,Nike Jacket #36,Puma,Accessories,active,2026-02-09 18:01:49-05:00,1,0
+8310670262459,Nike Jacket #90,Puma,Pants,active,2026-02-09 18:03:13-05:00,1,0
+8310667542715,Nike Pants #17,New Balance,T-Shirt,active,2026-02-09 18:01:18-05:00,1,0
+8310667935931,Nike Pants #29,Reebok,Jacket,active,2026-02-09 18:01:38-05:00,1,0
+8310668689595,Nike Pants #50,Puma,Pants,active,2026-02-09 18:02:11-05:00,1,0
+8310669607099,Nike Pants #74,Puma,Pants,active,2026-02-09 18:02:48-05:00,1,0
+8310669705403,Nike Pants #76,Puma,Shoes,active,2026-02-09 18:02:51-05:00,1,0
+8310666952891,Nike Shoes #2,Nike,T-Shirt,active,2026-02-09 18:00:54-05:00,1,0
+8310668492987,Nike Shoes #44,New Balance,T-Shirt,active,2026-02-09 18:02:02-05:00,1,0
+8310668591291,Nike Shoes #47,Puma,T-Shirt,active,2026-02-09 18:02:07-05:00,1,0
+8310668624059,Nike Shoes #48,Nike,Pants,active,2026-02-09 18:02:08-05:00,1,0
+8310669574331,Nike Shoes #73,Puma,Accessories,active,2026-02-09 18:02:47-05:00,1,0
+8310667280571,Nike T-Shirt #10,New Balance,Pants,active,2026-02-09 18:01:07-05:00,1,0
+8310670622907,Nike T-Shirt #100,New Balance,T-Shirt,active,2026-02-09 18:03:29-05:00,1,0
+8310668427451,Nike T-Shirt #42,Reebok,T-Shirt,active,2026-02-09 18:01:58-05:00,1,0
+8310669344955,Nike T-Shirt #66,Adidas,Accessories,active,2026-02-09 18:02:35-05:00,1,0
+8310667215035,Puma Accessories #8,Reebok,Jacket,active,2026-02-09 18:01:04-05:00,1,0
+8310670196923,Puma Accessories #88,New Balance,T-Shirt,active,2026-02-09 18:03:10-05:00,1,0
+8310668001467,Puma Jacket #30,Nike,T-Shirt,active,2026-02-09 18:01:39-05:00,1,0
+8310669017275,Puma Jacket #59,Reebok,Jacket,active,2026-02-09 18:02:25-05:00,1,0
+8310670065851,Puma Jacket #85,New Balance,Accessories,active,2026-02-09 18:03:05-05:00,1,0
+8310670557371,Puma Jacket #99,Nike,Shoes,active,2026-02-09 18:03:28-05:00,1,0
+8310667804859,Puma Pants #25,Puma,Accessories,active,2026-02-09 18:01:30-05:00,1,0
+8310670327995,Puma Pants #92,New Balance,Pants,active,2026-02-09 18:03:16-05:00,1,0
+8310667313339,Puma Shoes #11,Nike,Shoes,active,2026-02-09 18:01:09-05:00,1,0
+8310667837627,Puma Shoes #26,Nike,Pants,active,2026-02-09 18:01:32-05:00,1,0
+8310668656827,Puma Shoes #49,Adidas,Jacket,active,2026-02-09 18:02:10-05:00,1,0
+8310668853435,Puma Shoes #55,Reebok,T-Shirt,active,2026-02-09 18:02:19-05:00,1,0
+8310669541563,Puma Shoes #72,New Balance,Accessories,active,2026-02-09 18:02:46-05:00,1,0
+8310670000315,Puma Shoes #83,Nike,T-Shirt,active,2026-02-09 18:03:01-05:00,1,0
+8310670229691,Puma Shoes #89,Adidas,Jacket,active,2026-02-09 18:03:11-05:00,1,0
+8310668525755,Puma T-Shirt #45,New Balance,T-Shirt,active,2026-02-09 18:02:04-05:00,1,0
+8310669279419,Puma T-Shirt #65,New Balance,Jacket,active,2026-02-09 18:02:34-05:00,1,0
+8310669410491,Puma T-Shirt #68,Adidas,Accessories,active,2026-02-09 18:02:39-05:00,1,0
+8310670295227,Puma T-Shirt #91,Puma,T-Shirt,active,2026-02-09 18:03:14-05:00,1,0
+8310670524603,Puma T-Shirt #98,Puma,Pants,active,2026-02-09 18:03:26-05:00,1,0
+8310667378875,Reebok Accessories #13,Reebok,T-Shirt,active,2026-02-09 18:01:12-05:00,1,0
+8310667870395,Reebok Accessories #27,Adidas,Pants,active,2026-02-09 18:01:33-05:00,1,0
+8310668361915,Reebok Accessories #40,New Balance,Shoes,active,2026-02-09 18:01:55-05:00,1,0
+8310668984507,Reebok Accessories #58,Reebok,Jacket,active,2026-02-09 18:02:24-05:00,1,0
+8310669770939,Reebok Accessories #78,Reebok,Accessories,active,2026-02-09 18:02:54-05:00,1,0
+8310667247803,Reebok Accessories #9,Reebok,Jacket,active,2026-02-09 18:01:06-05:00,1,0
+8310667575483,Reebok Jacket #18,Adidas,Pants,active,2026-02-09 18:01:19-05:00,1,0
+8310668132539,Reebok Jacket #34,New Balance,Shoes,active,2026-02-09 18:01:46-05:00,1,0
+8310669672635,Reebok Jacket #75,New Balance,Jacket,active,2026-02-09 18:02:49-05:00,1,0
+8310669869243,Reebok Jacket #80,Reebok,Jacket,active,2026-02-09 18:02:57-05:00,1,0
+8310669738171,Reebok Shoes #77,Reebok,Jacket,active,2026-02-09 18:02:52-05:00,1,0
+8310669967547,Reebok Shoes #82,Adidas,Shoes,active,2026-02-09 18:03:00-05:00,1,0
+8310670131387,Reebok Shoes #87,New Balance,Accessories,active,2026-02-09 18:03:09-05:00,1,0
+8310667608251,Reebok T-Shirt #19,New Balance,Accessories,active,2026-02-09 18:01:21-05:00,1,0
+8310668099771,Reebok T-Shirt #33,Puma,Jacket,active,2026-02-09 18:01:44-05:00,1,0
+8310669476027,Reebok T-Shirt #70,Puma,T-Shirt,active,2026-02-09 18:02:43-05:00,1,0
+8310669934779,Reebok T-Shirt #81,New Balance,Jacket,active,2026-02-09 18:02:58-05:00,1,0
+8307108937915,Selling Plans Ski Wax,datavera-analytics,accessories,active,2026-02-04 13:29:13-05:00,3,3
+8307109265595,The 3p Fulfilled Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:15-05:00,1,1
+8307109036219,The Archived Snowboard,Snowboard Vendor,snowboard,archived,2026-02-04 13:29:13-05:00,1,1
+8307109003451,The Collection Snowboard: Hydrogen,Hydrogen Vendor,snowboard,active,2026-02-04 13:29:13-05:00,1,1
+8307109331131,The Collection Snowboard: Liquid,Hydrogen Vendor,snowboard,active,2026-02-04 13:29:15-05:00,1,1
+8307109134523,The Collection Snowboard: Oxygen,Hydrogen Vendor,snowboard,active,2026-02-04 13:29:14-05:00,1,1
+8307108872379,The Compare at Price Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:13-05:00,1,1
+8307108905147,The Complete Snowboard,Snowboard Vendor,snowboard,active,2026-02-04 13:29:13-05:00,5,1
+8307108839611,The Draft Snowboard,Snowboard Vendor,snowboard,draft,2026-02-04 13:29:13-05:00,1,1
+8307108774075,The Hidden Snowboard,Snowboard Vendor,snowboard,active,2026-02-04 13:29:13-05:00,1,1
+8307108708539,The Inventory Not Tracked Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:13-05:00,1,1
+8307108806843,The Minimal Snowboard,datavera-analytics,,active,2026-02-04 13:29:13-05:00,1,0
+8307109167291,The Multi-location Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:14-05:00,1,1
+8307109298363,The Multi-managed Snowboard,Multi-managed Vendor,snowboard,active,2026-02-04 13:29:15-05:00,1,1
+8307108970683,The Out of Stock Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:13-05:00,1,1
+8307109068987,The Videographer Snowboard,datavera-analytics,snowboard,active,2026-02-04 13:29:13-05:00,1,1
